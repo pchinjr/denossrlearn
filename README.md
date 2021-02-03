@@ -1,2 +1,0 @@
-# denossrlearn
-Begin app
